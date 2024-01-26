@@ -1,0 +1,47 @@
+.center {
+    text-align: center;
+}
+.red-text {
+    color: red;
+}
+.blue-text {
+    color: blue;
+}
+.green-text {
+    color: green;
+}
+.Big {
+    font-size: large;
+}
+.Tiny {
+    font-size: small;
+
+}
+.center1{
+    text-align: center;
+}
+.Bold{
+    font-weight: bold;
+}
+.change{
+    font-style: italic;
+}
+.multiple{
+    color: orange;
+    font-size: larger;
+    font-weight: bold;
+}
+.center2{
+    text-align: center;
+}
+.styledFont{
+    color: aqua;
+    text-decoration: double;
+    text-align: center;
+    font-style: inherit;
+}
+.text{
+    color: brown;
+    font-size:larger ;
+    font-style: oblique;
+}
