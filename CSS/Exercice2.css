@@ -31,8 +31,9 @@
     font-size: larger;
     font-weight: bold;
 }
-.center2{
+center2{
     text-align: center;
+    background-color: blueviolet;
 }
 .styledFont{
     color: aqua;
